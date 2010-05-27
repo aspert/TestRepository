@@ -1,0 +1,14 @@
+Start a webapp (web application) project with Maven 
+http://www.xinotes.org/notes/note/585/
+
+Debugging Tomcat Remotely Using Eclipse
+http://confluence.sakaiproject.org/display/BOOT/Debugging+Tomcat+Remotely+Using+Eclipse
+
+Installing Apache Tomcat 6 and Using It in Eclipse
+http://www.scribd.com/doc/495993/Installing-Apache-Tomcat-6-and-Using-It-With-Eclipse
+
+Maven Plugins
+http://mojo.codehaus.org/tomcat-maven-plugin/usage.html
+
+How do I deploy a maven web application to Tomcat?
+http://www.avajava.com/tutorials/lessons/how-do-i-deploy-a-maven-web-application-to-tomcat.html?page=2
